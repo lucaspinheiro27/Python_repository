@@ -1,2 +1,2 @@
-# Python_test
-repository for python test files
+# Python_repository
+Repository for Python files
